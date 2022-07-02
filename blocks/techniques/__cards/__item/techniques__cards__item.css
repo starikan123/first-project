@@ -1,0 +1,12 @@
+.cards__item{
+
+  display: block;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 60px;
+  width: 240px;
+
+
+
+}

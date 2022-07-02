@@ -1,0 +1,7 @@
+.column__content_info{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  position: absolute;
+  right: 400px;
+}

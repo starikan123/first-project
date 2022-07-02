@@ -1,0 +1,14 @@
+.techniques__section-title{
+
+  display: flex;
+  line-height: 1.15;
+  font-size: 60px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  text-align: center;
+  justify-content: center;
+min-width: 60%;
+font-family: 'Inter';
+  font-weight: bold;
+
+}
