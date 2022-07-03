@@ -3,5 +3,11 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
+  font-family: 'Inter', 'Arial', sans-serif;
+  display: inline-flex;
+  flex-direction: column;
+  list-style: none;
+  padding-left: 0;
+
 
 }

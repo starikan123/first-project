@@ -8,7 +8,7 @@
   text-align: center;
   justify-content: center;
 min-width: 60%;
-font-family: 'Inter';
-  font-weight: bold;
+font-family: 'Inter', 'Arial', sans-serif;;
+  font-weight: 700;
 
 }

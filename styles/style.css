@@ -6,13 +6,14 @@
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family:  'Inter', 'Arial', sans-serif;
   overflow-x: hidden;
 }
 
 
 a:hover{
   color: #2f80ed;
+  opacity: 0.5;
 }
 img[src="./images/header-image.png"]{
   width: 768px;
@@ -43,8 +44,8 @@ img[src="./images/header-image.png"]{
   justify-content: center;
   line-height: 1.15;
   font-size: 120px;
-  font-family: inter;
-  font-weight: bold;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: 700;
   padding: 0 324px;
   text-align: center;
 
@@ -66,7 +67,7 @@ img[src="./images/header-image.png"]{
   justify-content: center;
   line-height: 51px;
   font-size: 36px;
-  font-family: inter;
+  font-family: 'Inter', 'Arial', sans-serif;;
   font-weight: normal;
 }
 .feynman__link{
@@ -75,14 +76,80 @@ img[src="./images/header-image.png"]{
   right: 48px;
   line-height: 51px;
   font-size: 36px;
-  font-family:  inter;
+  font-family:  'Inter', 'Arial', sans-serif;;
   font-weight: normal;
   transition: opacity .2s linear ;
   text-decoration: none;
   color: #2f80ed;
 
 }
-.feynman__link:hover{
-  opacity: 0.5;
 
+.khan{
+  padding-top: 100px;
+}
+.khan__container{
+  margin: 0 auto;
+  width: 80%;
+
+}
+.khan__author{
+  line-height: 42px;
+  font-size: 30px;
+  font-family:  'Inter', 'Arial', sans-serif;
+  font-weight: normal;
+
+}
+.khan__title{
+  line-height: 1.15;
+  font-size: 60px;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: 700;
+  padding-bottom: 50px;
+}
+.khan__quote{
+  width: 790px;
+  padding-bottom: 36px;
+  line-height: 34px;
+  font-size: 24px;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: normal;
+}
+.khan__quote-author{
+  padding-bottom: 10px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: 700;
+}
+.khan__quote-author-subline{
+  line-height: 1.15;
+  font-size: 24px;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: normal;
+  padding-bottom: 64px;
+}
+.khan__book-container{
+  display: flex;
+  flex-direction: row;
+
+}
+.khan__book-pic{
+  width: 620px;
+  height: 608px;
+  padding-right: 48px;
+}
+.khan__buy-link{
+  line-height: 42px;
+  font-size: 30px;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: normal;
+  text-decoration: none;
+  transition: opacity .2s linear;
+}
+.column-link__text-decoration_none{
+  text-decoration: none;
+
+}
+.column-link_transition{
+  transition: opacity .2s linear ;
 }

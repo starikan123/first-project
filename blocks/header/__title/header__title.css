@@ -4,8 +4,8 @@
   padding-left: 64px;
   line-height: 96px;
   font-size: 102px;
-  font-weight: bold;
-  font-family: 'Inter';
+  font-weight: 700;
+  font-family:  'Inter', 'Arial', sans-serif;
   min-height: 600px;
   flex-direction: column;
 justify-content: center;

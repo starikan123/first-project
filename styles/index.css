@@ -9,12 +9,14 @@
 @import url(../blocks/header/__main-ilustration/header__main-ilustration.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__two-columns/description__two-columns.css);
+@import url(../blocks/description/__two-columns/__brief/description__two-columns__brief.css);
+@import url(../blocks/description/__two-columns/__paragraph/description__two-columns__paragraph.css);
+@import url(../blocks/description/__two-columns/__main-text/description__two-columns__main-text.css);
+@import url(../blocks/description/__two-columns/__span-accent/description__two-columns__span-accent.css);
 @import url(../blocks/digits/__section-title/digits__section-title.css);
 @import url(../blocks/digits/__section-subtitle/digits__section-subtitle.css);
 @import url(../blocks/digits/__table/_paddingBottom_100px/digits__table_paddingBottom_100px.css);
 @import url(../blocks/digits/__table/techniques__table.css);
-@import url(../blocks/digits/__flex-row-wrap/digits__flex-row-wrap.css);
-@import url(../blocks/kaufman/__flex-row-wrap/kaufman__flex-row-wrap.css);
 @import url(../blocks/digits/__cell/digits__cell.css);
 @import url(../blocks/digits/__cell/_width_m/digits__cell_width_m.css);
 @import url(../blocks/kaufman/__cell/_width_s/kaufman__cell_width_s.css);
@@ -51,9 +53,6 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column/__content_social/footer__column__content_social.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
-@import url(../blocks/footer/__column-link/_paddingBottomInstagram_16px/footer__column-linkpaddingBottomInstagram_16px.css);
-@import url(../blocks/footer/__column-link/_paddingBottom_10px/footer__column-link_paddingBottom_10px.css);
-@import url(../blocks/footer/__column-link/_textDecoration_none/footer__column-link_textDecoaration_none.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/_paddingRight_20px/video__iframe_paddingRight_20px.css);

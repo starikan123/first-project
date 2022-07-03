@@ -1,4 +1,9 @@
 .column-link{
   line-height: 32px;
-  display: inline-block;
+  padding-bottom: 10px;
+  text-decoration: none;
+  transition: opacity .2s linear;
+  display: flex;
+  flex-direction: row;
+
 }
