@@ -2,10 +2,8 @@
 .header__main-ilustration{
   width: 768px;
   height: 608px;
-  z-index: 1;
   position: absolute;
   left: 495px;
   top: 92px;
   overflow: hidden;
-
 }

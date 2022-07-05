@@ -1,4 +1,7 @@
 .column__copyright{
   width: 50%;
-  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 300px;
+  flex-grow: 3;
 }
