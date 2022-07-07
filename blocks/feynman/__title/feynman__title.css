@@ -1,7 +1,5 @@
 .feynman__title{
-  min-width: 648px;
-  display: flex;
-  justify-content: center;
+  max-width: 648px;
   line-height: 1.15;
   font-size: 120px;
   font-family: 'Inter', 'Arial', sans-serif;

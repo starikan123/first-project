@@ -7,4 +7,7 @@
   background-position: left bottom;
   background-color: #f2f2f2;
   background-size: 867px 637px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
