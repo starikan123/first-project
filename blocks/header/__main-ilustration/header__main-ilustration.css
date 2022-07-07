@@ -1,9 +1,8 @@
-
 .header__main-ilustration{
   width: 768px;
   height: 608px;
   position: absolute;
-  left: 495px;
-  top: 92px;
+  bottom: 0;
+  right: 0;
   overflow: hidden;
 }
